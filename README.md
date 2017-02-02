@@ -14,7 +14,7 @@ Change to the menu tab 'Selection' and drag and drop all signals you would like 
 Then simulate your design, ideally by 'Ticks Enabled', when you have a clock or something like that.
 After simulation, yout just call LogisimWave as follows:
 
-LogisimWave -m logisim-logfile
+java -jar LogisimWave.jar -m logisim-logfile
   -m: Monitor mode
   -p: PNG file
 
