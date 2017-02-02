@@ -27,6 +27,6 @@ or at the PNG file with a resolution of 1280x720 (16:9).
 
 Oh, you need a gnuplot installation!
 
-Have fun and call me, if something going wrong
+Have fun and call me, if something going wrong.
 
 e.guentzel@gmx.de
