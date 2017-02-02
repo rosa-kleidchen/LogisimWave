@@ -15,12 +15,12 @@ Then simulate your design, ideally by 'Ticks Enabled', when you have a clock or 
 After simulation, yout just call LogisimWave as follows:
 
 java -jar LogisimWave.jar -m logisim-logfile
-  -m: Monitor mode
-  -p: PNG file
+  - -m: Monitor mode
+  - -p: PNG file
 
 This will be created two file called 'gnuplot.dat' and 'lw.plt':
-  - gnuplot.dat is the new data file for gnuplot
-  - lw.plt is the gnuplot script which can be executed by gnuplot itself
+  - 'gnuplot.dat' is the new data file for gnuplot
+  - 'lw.plt' is the gnuplot script which can be executed by gnuplot itself
 
 Now you should see the waveform of all signals you selected before.
 
