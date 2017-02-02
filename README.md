@@ -22,7 +22,8 @@ This will be created two file called 'gnuplot.dat' and 'lw.plt':
   - 'gnuplot.dat' is the new data file for gnuplot
   - 'lw.plt' is the gnuplot script which can be executed by gnuplot itself
 
-Now you should see the waveform of all signals you selected before.
+Now you should see the waveform of all signals you selected before either on the monitor
+or at the PNG file with a resolution of 1280x720 (16:9).
 
 Oh, you need a gnuplot installation!
 
